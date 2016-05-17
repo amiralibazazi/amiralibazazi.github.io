@@ -9,7 +9,7 @@
 title: Amir Bazazi's Blog.
 email: amiralibazazi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Where i'll talk about how much I love software.
+  This was supposed to be some sort of description of this blog apparantly.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://amiralibazazi.github.io" # the base hostname & protocol for your site
 twitter_username: amirbazazi
