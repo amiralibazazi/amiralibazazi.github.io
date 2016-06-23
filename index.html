@@ -2,6 +2,10 @@
 layout: default
 title: Amir's Blog
 ---
-<div>
-    Hello from the index.html
+<div id="home">
+    <ul class="posts">
+        {% for post in site.posts %}
+        <li> <a href="{{ post.url }}"> &raquo; {{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
 </div>
